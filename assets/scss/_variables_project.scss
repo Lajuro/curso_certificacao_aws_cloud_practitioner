@@ -1,6 +1,28 @@
-/*
+$primary: #232f3e;
+$secondary: #ec7211;
 
-Add styles or override variables from the theme here.
+$enable-gradients: false;
+$enable-rounded: true;
+$enable-shadows: false;
+$td-enable-google-fonts: true;
 
-*/
+$google_font_name: "Poppins";
+$google_font_family: "Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900";
 
+.code-toolbar,
+.td-content .highlight {
+  font-family: monospace !important;
+  border-radius: .5rem !important;
+  overflow: hidden;
+}
+
+div.code-toolbar > .toolbar button {
+  padding: .3rem .5rem !important;
+  background-color: $secondary !important;
+  color: #ffffff !important;
+}
+
+.btn-center {
+  display: block !important;
+  margin: auto;
+}
