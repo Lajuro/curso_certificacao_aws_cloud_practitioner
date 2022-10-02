@@ -43,6 +43,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
+      - name: Install Dependencies
+        run: |
+          npm install autoprefixer
+          npm install postcss-cli
+          npm install postcss
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
