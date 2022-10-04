@@ -1,7 +1,7 @@
 ---
 title: "Aula 16: As Zonas de Disponibilidade"
 linkTitle: "Aula 16"
-weight: 2
+weight: 3
 description: >
   Nesta aula é informado sobre as zonas de disponibilidade disponíveis na AWS.
 ---

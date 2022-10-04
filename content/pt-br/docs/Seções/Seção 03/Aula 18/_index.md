@@ -1,7 +1,7 @@
 ---
 title: "Aula 18: A AWS Wavelength"
 linkTitle: "Aula 18"
-weight: 2
+weight: 5
 description: >
   Nesta aula é informado sobre Wavelength da AWS e o que é.
 ---

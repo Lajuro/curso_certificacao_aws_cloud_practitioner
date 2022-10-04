@@ -1,7 +1,7 @@
 ---
 title: "Aula 17: As Zonas Locais"
 linkTitle: "Aula 17"
-weight: 2
+weight: 4
 description: >
   Nesta aula é informado sobre as zonas locais na AWS e o que é.
 ---

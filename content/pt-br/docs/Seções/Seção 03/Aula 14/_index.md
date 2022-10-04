@@ -1,7 +1,7 @@
 ---
 title: "Aula 14: Infraestrutura Global AWS"
 linkTitle: "Aula 14"
-weight: 2
+weight: 1
 description: >
   Nesta aula é informado qual é a Infraestrutura da AWS.
 ---

@@ -1,6 +1,17 @@
 $primary: #232f3e;
 $secondary: #ec7211;
 
+$info: #cce3ff;
+$info-dark: #3e84e5;
+$success: #c5f7dd;
+$success-dark: #3bc27a;
+$warning: #ffe8c3;
+$warning-dark: #e7a027;
+$danger: #ffd0cb;
+$danger-dark: #e9594c;
+$dimmed: #e9e8eb;
+$dimmed-dark: #717584;
+
 $enable-gradients: false;
 $enable-rounded: true;
 $enable-shadows: false;
@@ -25,4 +36,34 @@ div.code-toolbar > .toolbar button {
 .btn-center {
   display: block !important;
   margin: auto;
+}
+
+.alert {
+  border-radius: .3rem !important;
+  border-left-width: 8px !important;
+}
+
+.alert.alert-info {
+  background-color: $info;
+  border-color: $info-dark;
+}
+
+.alert.alert-success {
+  background-color: $success;
+  border-color: $success-dark;
+}
+
+.alert.alert-warning {
+  background-color: $warning;
+  border-color: $warning-dark;
+}
+
+.alert.alert-danger {
+  background-color: $danger;
+  border-color: $danger-dark;
+}
+
+.alert.alert-dimmed {
+  background-color: $dimmed;
+  border-color: $dimmed-dark;
 }
