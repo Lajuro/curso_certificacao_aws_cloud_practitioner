@@ -3,7 +3,7 @@ title: "Aula 19: O AWS Outposts"
 linkTitle: "Aula 19"
 weight: 6
 description: >
-  Nesta aula é informado sobre o AWS Oustposts e o que é.
+  Nesta aula é informado sobre o AWS Oustposts e o que é
 ---
 
 O AWS Outposts é uma família de soluções totalmente gerenciadas que fornecem infraestrutura e serviços da AWS para praticamente qualquer local da borda ou on-premises para uma experiência híbrida verdadeiramente consistente. As soluções do Outposts permitem que os clientes estendam e executem serviços da AWS nativos on-premises e estão disponíveis em uma variedade de formatos, de servidores Outposts 1U e 2U a racks Outposts 42U e várias implantações de rack.

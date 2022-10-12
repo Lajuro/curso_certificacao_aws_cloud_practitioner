@@ -3,7 +3,7 @@ title: "Aula 16: As Zonas de Disponibilidade"
 linkTitle: "Aula 16"
 weight: 3
 description: >
-  Nesta aula é informado sobre as zonas de disponibilidade disponíveis na AWS.
+  Nesta aula é informado sobre as zonas de disponibilidade disponíveis na AWS
 ---
 
 Dentro de uma região, existem data centers, que são as *availability zones (AZ)* ou zonas de disponibilidade.

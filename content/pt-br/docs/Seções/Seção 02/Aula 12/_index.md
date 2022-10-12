@@ -3,7 +3,7 @@ title: "Aula 12: Criando um Alerta de Billing"
 linkTitle: "Aula 12"
 weight: 1
 description: >
-  Anotações de como criar um alerta de billing na AWS.
+  Anotações de como criar um alerta de billing na AWS
 ---
 
 Após a criação da sua conta na AWS, é importante que por segurança seja configurado um alerta de billing, que é simplesmente um alerta que vai te informar que está sendo cobrado por algum serviço, caso acidentalmente tenha utilizado algum serviço que não seja *free_tier*.
