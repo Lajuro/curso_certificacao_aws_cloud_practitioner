@@ -1,5 +1,5 @@
 ---
-title: "Aula 29: Instrodução ao EC2"
+title: "Aula 29: Introdução ao EC2"
 linkTitle: "Aula 29"
 weight: 2
 description: >

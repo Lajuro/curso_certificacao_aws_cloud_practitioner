@@ -1,5 +1,5 @@
 ---
-title: "Aula 31: Criando uma Intância Windows 2019"
+title: "Aula 31: Criando uma Instância Windows 2019"
 linkTitle: "Aula 31"
 weight: 4
 description: >
