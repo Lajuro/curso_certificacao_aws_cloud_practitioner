@@ -1,7 +1,7 @@
 ---
 title: "Aula 20: Introdução ao IAM"
 linkTitle: "Aula 20"
-weight: 6
+weight: 1
 description: >
   Nesta aula é introduzido o que é IAM na AWS
 ---

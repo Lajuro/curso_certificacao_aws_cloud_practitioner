@@ -1,7 +1,7 @@
 ---
 title: "Aula 22: Criar um usuário no IAM"
 linkTitle: "Aula 22"
-weight: 7
+weight: 3
 description: >
   Nesta aula é mostrado como criar um usuário no serviço IAM da AWS
 ---

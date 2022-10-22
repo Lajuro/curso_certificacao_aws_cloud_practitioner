@@ -1,7 +1,7 @@
 ---
 title: "Aula 21: Entendendo sobre usuários, grupos e políticas"
 linkTitle: "Aula 21"
-weight: 6
+weight: 2
 description: >
   Nesta aula é mostrado de um modo geral sobre usuários, grupos e políticas
 ---
