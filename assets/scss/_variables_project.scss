@@ -71,3 +71,30 @@ div.code-toolbar > .toolbar button {
 img {
   border-radius: .5rem;
 }
+
+.btn {
+  border-radius: .5rem !important;
+  padding: .3rem 1.5rem !important;
+}
+
+.btn.btn-info {
+  background-color: #3e84e5;
+  border-color: #3e84e5;
+  color: #ffffff;
+}
+
+.btn.btn-info:hover {
+  background-color: #649ae6;
+  border-color: #649ae6;
+}
+
+.btn.btn-secondary {
+  background-color: #ec7211;
+  border-color: #ec7211;
+  color: #ffffff;
+}
+
+.btn.btn-secondary:hover {
+  background-color: #e6883b;
+  border-color: #e6883b;
+}
