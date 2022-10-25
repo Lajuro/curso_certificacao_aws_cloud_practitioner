@@ -98,3 +98,9 @@ img {
   background-color: #e6883b;
   border-color: #e6883b;
 }
+
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #ffffff !important;
+  text-shadow: none !important;
+}
