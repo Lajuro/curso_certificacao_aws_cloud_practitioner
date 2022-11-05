@@ -107,3 +107,42 @@ pre[class*="language-"] {
   color: #ffffff !important;
   text-shadow: none !important;
 }
+
+blockquote.mention {
+  display: inline-block;
+  position: relative;
+  background-color: #eeeeee;
+  font-style: italic;
+  color: #9e9e9e !important;
+  border: none !important;
+  padding: .7rem 2rem !important;
+  border-radius: .3rem;
+  text-align: justify;
+}
+
+blockquote.mention p {
+  padding: 0;
+  margin: 0;
+}
+
+blockquote.mention p + p {
+  margin-top: .7rem;
+}
+
+blockquote.mention::before {
+  content: "“";
+  position: absolute;
+  left: 6px;
+  top: 2px;
+  font-size: 22px;
+  opacity: .7;
+}
+
+blockquote.mention::after {
+  content: "”";
+  position: absolute;
+  right: 8px;
+  bottom: -10px;
+  font-size: 22px;
+  opacity: .7;
+}
