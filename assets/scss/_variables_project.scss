@@ -154,3 +154,17 @@ blockquote.mention::after {
   font-size: 22px;
   opacity: .7;
 }
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: $dimmed;
+  border-radius: .3rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: $secondary;
+  border-radius: .3rem;
+}
