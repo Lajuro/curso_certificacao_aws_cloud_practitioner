@@ -3,7 +3,7 @@ title: "Aula 43: Introdução a Storage"
 linkTitle: "Aula 43"
 weight: 1
 description: >
-  Nesta aula é falado sobre
+  Nesta aula é falado sobre os diversos tipos de armazenamento existentes na AWS
 ---
 
 Existem muitas pessoas na AWS que ao falar sobre um serviço de armazenamento na AWS, já pensa logo no S3 (inclusive eu mesmo ao chegar até esse ponto do curso), porém na AWS existem vários serviços de armazenamento, porém cada um tem sua função, cada um tem o seu motivo de existir.
